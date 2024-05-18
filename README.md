@@ -13,10 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://darflen.com/users/souple" target="blank"><img align="center" src="https://static.darflen.com/img/logo.svg" alt="souple darflen link" height="30" width="40" /></a>
+  <a href="https://darflen.com/users/souple" target="blank"><img align="center" src="https://static.darflen.com/uploads/medium/icon.jpg" alt="souple darflen link" height="30" width="30" /></a>
   <a href="https://app.meower.org/users/souple" target="blank"><img align="center" src="https://app.meower.org/assets/meowy-93c25f40.svg" alt="souple meower link" height="30" width="40" /></a>
-   <a href="https://wasteof.money/users/souple" target="blank"><img align="center" src="https://api.wasteof.money/users/wasteof.money/picture" alt="souple wasteofmoney link" height="30" width="40" /></a>
+   <a href="https://wasteof.money/users/souple" target="blank"><img align="center" src="https://api.wasteof.money/users/wasteof.money/picture" alt="souple wasteofmoney link" height="30" width="30" /></a>
   <a href="https://www.blazeapp.net/profile/souple/profile" target="blank"><img align="center" src="https://static.wixstatic.com/media/0a8e45_310070b118cb43949349ad26c5e787d8%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/0a8e45_310070b118cb43949349ad26c5e787d8%7Emv2.png" alt="souple blaze link" height="30" width="30" /></a>
+  <a href="https://forum.snap.berkeley.edu/u/souple/summary" target="blank"><img align="center" src="https://cdn.forum.snap.berkeley.edu/optimized/1X/971404ec1bfd7c4380d80420183f8f79e237e007_2_180x180.png" alt="souple snap! link" height="30" width="30"
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
