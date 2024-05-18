@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, Javascript, and CSS**
 
-- ⚡ Fun fact **You may see me talking about soup ;-)**
+- ⚡ Fun fact **You may see me talking about soup 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
