@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souplecodes" alt="souplecodes" /></a> </p>
 
-- 🔭 I’m currently working on [my website!](souplecodes.github.io)
+- 🔭 I’m currently working on [a meower client!](https://souplecodes.github.io/furrchat/)
 
 - 🌱 I’m currently learning **HTML, Javascript, and CSS**
 
